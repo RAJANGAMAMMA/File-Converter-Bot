@@ -14,9 +14,9 @@ import helperfunctions
 
 
 # env
-bot_token = os.environ.get("TOKEN", "") 
-api_hash = os.environ.get("HASH", "") 
-api_id = os.environ.get("ID", "")
+bot_token = os.environ.get("TOKEN", "5432111722:AAFwOXw0Tm5KkCx9nwSP4aQCz3xJEiW7TT4") 
+api_hash = os.environ.get("HASH", "1ed6e0628fd2f3776cbd13db5af703e7") 
+api_id = os.environ.get("ID", "15518569")
 
 
 # bot
